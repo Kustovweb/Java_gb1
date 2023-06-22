@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class Main {
+public class Seminar_1 {
 
     public static void main(String[] args) {
         int i = getRandomInt(0, 2000);
