@@ -37,7 +37,6 @@ public class Seminar_4 {
         while (true) {
             String console_str = console.nextLine();
             if (console_str.equals("q")) {
-                System.out.println("Программа закончена");
                 break;
             }
             String[] arr = new String[3];
